@@ -1,0 +1,23 @@
+img {
+  width: 100%; /* 使 canvas 适应父容器的宽度 */
+  height: auto; /* 保持比例 */
+  object-fit: cover;
+}
+
+canvas {
+  display: none;
+}
+.canvas-container canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.canvas-container {
+  position: relative;
+  width: 500px; /* 设置为适合的宽度 */
+  height: 500px; /* 设置为适合的高度 */
+}
+
+.hidden {
+  display: none;
+}

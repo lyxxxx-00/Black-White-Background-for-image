@@ -185,7 +185,8 @@ function buildDevConfig(options) {
     return null;
   }
 
-  const { port, enableHmr, appOrigin, appId, enableHttps, certFile, keyFile } = options;
+  const { port, enableHmr, appOrigin, appId, enableHttps, certFile, keyFile } =
+    options;
 
   let devServer = {
     server: enableHttps

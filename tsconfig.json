@@ -41,12 +41,10 @@
   "include": [
     "./src/**/*",
     "./scripts/**/*",
-    "./examples/**/*",
     "./declarations/declarations.d.ts",
     "./utils/**/*",
     "./styles/**/*",
-    "./node_modules/@types/**/*",
-    "./sdk/**/*"
+    "./node_modules/@types/**/*"
   ],
   "ts-node": {
     "compilerOptions": {
