@@ -13,4 +13,6 @@
 
 ## Examples
 
+![original image](./assets/example.png)
+![after image](./assets/example-after.png)
 
