@@ -4,6 +4,10 @@
 
 **B&W Background** is a simple and user-friendly Canva app designed to turn the background of your images into black and white, allowing the foreground object to stand out. This effect is perfect for enhancing your designs by simplifying or emphasizing specific elements.
 
+## Demo
+
+[Demo video](https://youtu.be/t0U9CfgVg6A)
+
 ## Features
 
 - **Image Upload**: Easily upload the image you want to modify.
